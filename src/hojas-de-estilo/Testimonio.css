@@ -1,4 +1,4 @@
-.contenedor-testimonio {
+/* .contenedor-testimonio {
     width: 1170px;
     height: 368px;
     margin: 10px 10px 50px;
@@ -12,17 +12,21 @@
 .imagen-testimonio {
     height: 100%;
     width: auto;
-}
+} */
 
-.contenedor-texto-testimonio {
+/* .contenedor-texto-testimonio {
     text-align: center;
     padding: 40px;
     font-family: Lato, sans-serif;
     font-weight: 400;
     line-height: 1.5rem;
+} */
+.contenedor-texto-testimonio {
+    font-family: Lato, sans-serif;
 }
 
-.nombre-testimonio {
+
+/* .nombre-testimonio {
     font-size: 1.3rem;
 }
 
@@ -35,4 +39,4 @@
 .texto-testimonio {
     font-size: 1.1rem;
     text-align: justify;
-}
+} */
